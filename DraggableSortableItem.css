@@ -1,7 +1,0 @@
-.xzmce-draggable-item.moving{
-    transition: .3s transform ease-out;
-}
-.xzmce-draggable-item.dragging{
-    z-index: 1;
-    position: relative;
-}
