@@ -1,0 +1,38 @@
+.xzmce_cmd__single-line-text-truncate {
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    overflow: hidden;
+}
+
+.xzmce_cmd__meta-scroll-pattern::-webkit-scrollbar {
+    width: 5px;
+    padding-left: 5px;
+    background-color: transparent;
+}
+
+.xzmce_cmd__meta-scroll-pattern::-webkit-scrollbar-thumb {
+    background-color: #E1E1E1;
+    border-radius: 100px;
+}
+
+.xzmce_cmd__flex-center{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.xzmce_cmd__no-pointer-events{
+    pointer-events: none;
+}
+
+.xzmce-scrollbar::-webkit-scrollbar {
+    width: 4px;
+    background-color: #F5F5F5; /* or add it to the track */
+}
+
+.xzmce-scrollbar::-webkit-scrollbar-thumb{
+    background: #E1E1E1;
+}
+.xzmce-scrollbar::-webkit-scrollbar-corner{
+    display: none;
+}

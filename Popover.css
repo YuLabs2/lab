@@ -1,0 +1,10 @@
+.xzmce-popover-floating-position-wrapper[class]{
+    --animate-duration: 0.5s
+}
+
+.xzmce-popover-floating{
+    background-color: white;
+    border-radius: 3px;
+    box-shadow: 0px 4px 10px 0px #00000014, 0px 1px 4px 0px #0000000A;
+    transform-origin: 100% 0;
+}

@@ -1,0 +1,50 @@
+.xzmce_cmd__meta-button{
+    display: inline-block;
+    overflow: hidden;
+    padding: 0 7px;
+    vertical-align: bottom;
+    box-sizing: border-box;
+    border-radius: 3px;
+    user-select: none;
+    cursor: pointer;
+}
+.xzmce_cmd__meta-button.noClick{
+    cursor: default;
+}
+
+.xzmce_cmd__meta-button[disabled]{
+    color:var(--sub-black-2);
+    cursor: default;
+    pointer-events: none;
+}
+
+.xzmce_cmd__meta-button-mask-layer{
+}
+.xzmce_cmd__meta-button-mask-layer:not([disabled]):active{
+    box-shadow: inset 0px -3px 5px -2px rgba(98, 97, 97, 0.12), inset 0 -10px 5px -2px rgba(77, 74, 74, 0.07);
+}
+
+.xzmce_cmd__meta-button-entity{
+    all: unset;
+    width: 100%;
+    box-sizing: border-box;
+    vertical-align: bottom;
+    text-align: center;
+}
+.xzmce_cmd__meta-button-entity[disabled]{
+}
+.xzmce_cmd__meta-button-entity.small{
+    line-height: 25px;
+    height: 25px;
+    display: flex;
+    align-items: center;
+}
+.xzmce_cmd__meta-button-entity.default{
+    line-height: 35px;
+    height: 35px;
+}
+.xzmce_cmd__meta-button-entity.large{
+    line-height: 45px;
+    height: 45px;
+}
+

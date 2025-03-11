@@ -1,0 +1,54 @@
+.xzmce_cmd__tip-styled.warn {
+    color: #FFAD0D;
+}
+
+.xzmce_cmd__tip-styled.disabled{
+    color: var(--primary-gray);
+}
+
+.xzmce_cmd__tip-styled-toolTip{
+    min-width: 100px;
+    max-width: unset;
+    --toolTip-background: white;
+}
+.xzmce_cmd__tip-styled-toolTip.warn{
+    --toolTip-background: #FFF9EE;
+    --toolTip-border-color: #FFDD82;
+    --toolTop-icon-color: #FFAD0D;
+}
+.xzmce_cmd__tip-styled-toolTip.default{
+    --toolTip-background: #F1F8FF;
+    --toolTip-border-color: #93C8FF;
+    --toolTop-icon-color: #3B82F6;
+}
+
+.xzmce_cmd__tip-toolTip-content{
+    margin-left: 5px;
+}
+.xzmce_cmd__tip-toolTip-icon{
+    color: var(--toolTop-icon-color);
+}
+
+.xzmce_cmd__tip-styled-toolTip.ant-tooltip .ant-tooltip-inner {
+    background-color: var(--toolTip-background);
+    border: 1px solid var(--toolTip-border-color);
+}
+.xzmce_cmd__tip-styled-toolTip.ant-tooltip .ant-tooltip-arrow{
+    transform: translateX(-50%) translateY(calc(100% - 1px)) rotate(180deg);
+}
+.xzmce_cmd__tip-styled-toolTip.ant-tooltip .ant-tooltip-arrow:before{
+    background-color: var(--toolTip-background);
+}
+
+.xzmce_cmd__tip-styled-toolTip.ant-tooltip .ant-tooltip-arrow::after{
+    border: 1px solid var(--toolTip-border-color);
+}
+.xzmce_cmd__tip-styled-toolTip.ant-tooltip .ant-tooltip-inner{
+    display: flex;
+    color: black;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 22px;
+    letter-spacing: 0px;
+    text-align: left;
+}

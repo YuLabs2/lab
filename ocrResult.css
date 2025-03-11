@@ -1,0 +1,211 @@
+
+.xzmce-ocr-result-popup-overlay {
+    position: fixed;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    background-color: rgba(0, 0, 0, 0.1);
+    z-index: 2147483644;
+}
+
+.xzmce-ocr-result-popup-warp {
+    position: fixed;
+    /*width: 60%;*/
+    /*min-width: 800px;*/
+    /*height: 60%;*/
+    /*min-height: 550px;*/
+    background: rgba(255, 255, 255, 1);
+    border-radius: 8px;
+    box-shadow: 0 1px 7px 5px rgba(0, 0, 0, 0.1);
+    z-index: 2147483645;
+}
+
+
+.xzmce-ocr-result-popup-header-warp {
+    width: 100%;
+    text-align: left;
+}
+
+.xzmce-ocr-result-popup-header-logo {
+    content: url(./icon/icon_128.png);
+    width: 20px;
+    height: 20px;
+    margin: 16px 8px 16px 11px;
+    vertical-align: middle;
+}
+
+.xzmce-ocr-result-popup-header-name {
+    height: 56px;
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 400;
+    color: rgba(17, 17, 17, 1);
+    line-height: 56px;
+    text-align: left;
+    vertical-align: middle;
+}
+
+.xzmce-ocr-result-popup-header-close {
+    content: url(./icon/cricle_del.png);
+    width: 20px;
+    height: 20px;
+    margin: 16px 9px 16px 0;
+    vertical-align: middle;
+    float: right;
+    cursor: pointer;
+}
+
+.xzmce-ocr-result-popup-result-warp {
+    text-align: center;
+    height: calc(100% - 116px);
+}
+
+.xzmce-ocr-result-popup-capture-image-area {
+    vertical-align: top;
+    display: inline-block;
+    height: calc(100%);
+    width: calc(45%);
+    background: rgb(229, 229, 229);
+    margin-right: 10px;
+    text-align: center;
+    border-radius: 6px;
+    position: relative;
+}
+
+.xzmce-ocr-result-popup-capture-image {
+    width: auto;
+    height: auto;
+    max-width: calc(100% - 10px);
+    max-height: calc(100% - 10px);
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translateX(-50%) translateY(-50%);
+}
+
+.xzmce-ocr-result-popup-result-area {
+    vertical-align: top;
+    display: inline-block;
+    height: calc(100%);
+    width: calc(94%);
+    background: #ECEDF2 ;
+    padding: 4px;
+    text-align: center;
+    border-radius: 6px;
+    font: 14px Arial, Helvetica, sans-serif;
+    position: relative;
+}
+
+.xzmce-ocr-result-loading {
+    background: url("icon/loading.png") no-repeat center;
+    background-size: 44px !important;
+    width: 44px;
+    height: 44px;
+    display: inline-block;
+    animation: xzmce-ocr-result-loading-rotate 1.2s linear infinite;
+    position: absolute;
+    left: calc(50% - 22px);
+    top: calc(50% - 22px);
+    transform: translateX(calc(-50% - 22px)) translateY(calc(-50% - 22px));
+}
+
+.xzmce-ocr-result-popup-result-error {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translateX(-50%) translateY(-50%);
+}
+
+@keyframes xzmce-ocr-result-loading-rotate {
+    0% {
+        -webkit-transform: rotate(0deg);
+    }
+
+    25% {
+        -webkit-transform: rotate(90deg);
+    }
+
+    50% {
+        -webkit-transform: rotate(180deg);
+    }
+
+    75% {
+        -webkit-transform: rotate(270deg);
+    }
+
+    100% {
+        -webkit-transform: rotate(360deg);
+    }
+}
+
+.xzmce-ocr-result-popup-result {
+    margin: 2px;
+   outline: none;
+    text-align: left;
+    height: calc(100% - 4px);
+    width: calc(100% - 4px);
+    overflow: auto;
+}
+
+.xzmce-ocr-result-popup-button-warp {
+    text-align: center;
+    margin: 10px auto;
+}
+
+.xzmce-ocr-result-popup-copy-button {
+    width: 240px;
+    height: 40px;
+    border-radius: 4px;
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 400;
+    color: rgba(36, 112, 255, 1);;
+    display: flex;
+    line-height: 40px;
+    cursor: pointer;
+    margin: -39px 15px;
+    z-index: 9999;
+    position: relative;
+}
+
+.xzmce-ocr-result-popup-copy-button-new{
+  font-size: 14px;
+  width: 65px;
+  display: flex;
+  color: rgba(36, 112, 255, 1);
+  margin: -39px 15px;
+  z-index: 9999;
+  position: relative;
+  cursor: pointer;
+}
+.xzmce-ocr-copy{
+    content: url(./icon/copy.png);
+    width: 30px;
+    height: 30px;
+    margin-top: -1px;
+
+}
+
+.xzmce-ocr-result-popup-cancel-button {
+    width: 240px;
+    height: 40px;
+    background: rgba(211, 211, 211, 1);
+    border-radius: 4px;
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 400;
+    color: rgba(0, 0, 0, 1);
+    display: inline-block;
+    line-height: 40px;
+    cursor: pointer;
+    margin: 0 10px;
+}
+.xzmce-ocr-tip{
+    position: relative;
+    top: 53px;
+    font-size: 14px;
+    color: #404040;
+    margin: 14px auto;
+
+}

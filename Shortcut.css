@@ -1,0 +1,26 @@
+.xzmce-CMDShort{
+    display: flex;
+    align-items: center;
+}
+
+.xzmce-CMDShort-btn-item{
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 22px;
+    letter-spacing: 0px;
+    text-align: left;
+    width: 35px;
+    padding: 0 5px;
+}
+
+
+.xzmce-CMDShort-btn-item .xzmce_cmd__meta-button-entity:empty::before{
+     content: '(空)';
+    color: var(--sub-black);
+ }
+
+.xzmce-shortcut-setting-addBtn{
+    color: #4BA1FF;
+    margin-top: 9px;
+    padding: 0 8px;
+}

@@ -1,0 +1,50 @@
+.xzmce-quest-hint-stub-button{
+    background: #3366E4;
+
+    box-shadow: 0px 1px 4px rgba(0, 0, 0, 0.04), 0px 4px 10px rgba(0, 0, 0, 0.08);
+    border-radius: 5px;
+    transition: .3s background-color;
+}
+.xzmce-quest-hint-stub-button:hover{
+    background: #6187e6;
+}
+
+.xzmce-quest-hint-stub-button .xzmce_cmd__meta-button-entity{
+    white-space: nowrap;
+    display: flex;
+    align-items: center;
+}
+
+.xzmce-quest-hint-stub-button-icon{
+    width: 28px;
+}
+.xzmce-quest-hint-stub-button-text{
+    font-size: 15px;
+    font-weight: 600;
+    line-height: 22px;
+    letter-spacing: 0px;
+    text-align: left;
+    color:white;
+    margin-left: 5px;
+}
+
+.xmzce-quest-hint-stub-close-btn{
+    font-size: 16px;
+    opacity: 0;
+    transition: .2s all;
+    color: #EB6F70;
+    cursor: pointer;
+    position: absolute;
+    right: 0;
+    top: 0;
+    transform: translate(50%, -50%);
+    display: flex;
+    background-color: white;
+    border-radius: 999px;
+}
+.xmzce-quest-hint-stub-close-btn:hover{
+    color: #f14d4e;
+}
+.xzmce-quest-hint-stub-button:hover .xmzce-quest-hint-stub-close-btn{
+    opacity: 1;
+}
