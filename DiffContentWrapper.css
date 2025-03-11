@@ -1,6 +1,0 @@
-span[xzmce-diff]{
-    all:revert;
-    color: var(--primary-blue);
-    text-decoration: underline;
-    text-underline-offset: 4px;
-}
