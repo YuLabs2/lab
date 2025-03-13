@@ -16,12 +16,17 @@ Our research topics mainly involve:
    Interference_Wav files: [Click here](http://htmlpreview.github.io/?https://github.com/YuLabs/YuLabs.github.io/blob/gh-pages/wav/STGCSEN_Interference/index.html "wav")
 
 
-**2. Attention-based Feature-aware Adversarial Learning for Speech Enhancement, submitted to Interspeech 2022**
+**2. Self-Supervised Speech Enhancement Based On Speaker Verification, submitted to ICASSP 2024**
+
+   Abstract: This paper proposes a self-supervised speech enhancement algorithm based on speaker verification which transforms the supervised STGCN to the unsupervised learnng framework, aiming to achieve robust speech enhancement of target speaker in the absence of ground-truth data and unseen scene conditions. In addition, feature-aware modules are introduced to achieve dynamic environmental adaptation, which is applicable in the unknown multi-source realistic scenes for smart interactive devices. Therefore, our self-supervised framework can denoise, suppress interfering persons and enhance the unfamiliar target by the few-shot speaker verification for unknown dynamic scenes. 
+
+   Wav files: [Click here](https://wlirui.github.io/SSL-NTA-SV/ "wav")
+
+**3. Attention-based Feature-aware Adversarial Learning for Speech Enhancement, submitted to Interspeech 2022**
 
    Abstract:  need to be updated
 
    Wav files: need to be updated
-
 
 ## Contact Info
 If any question, feel free to contact <jjyu@bjtu.edu.cn>
