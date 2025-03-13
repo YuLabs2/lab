@@ -57,7 +57,7 @@ Our research topics mainly involve:
 
    Authors: Xingchun Liu, Jingjing Yu*, Yaxin Fu
    
-   Data: need to be updated
+   Data: [Click here](https://yulabs2.github.io/ "data")
 
 ## Group
 
