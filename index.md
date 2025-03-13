@@ -12,14 +12,13 @@ Our research topics mainly involve:
 **1. Graph-guided Spatial-temporal Diffusion Model for Multichannel Speech Enhancement, submitted to DSP 2025**
 
 
-<div style="display: flex; align-items: center; justify-content: space-between;">
+<div style="display: flex; align-items: flex-start; justify-content: space-between;">
   <div>
     Authors: Xingchun Liu, Jingjing Yu*, Yaxin Fu<br>
     Data: need to be updated
   </div>
-  <img src="path/to/image1.png" alt="Image 1" style="width: 100px; margin-left: 10px;">
+  <img src="path/to/image1.png" alt="图片1" style="width: 100px; margin-left: 10px;">
 </div>
-  
 
 **2. Confidence-guided Progressive Mixup for Unsupervsied Domain Adaptive Speech Enhancement, submitted to ICASSP 2024**
 
