@@ -17,7 +17,7 @@ Our research topics mainly involve:
     Authors: Xingchun Liu, Jingjing Yu*, Yaxin Fu<br>
     Data: need to be updated
   </div>
-  <img src="path/to/image1.png" alt="图片1" style="width: 100px; margin-left: 10px;">
+  <img src="path/to/image1.png" alt="图片1.png" style="width: 100px; margin-left: 10px;">
 </div>
 
 **2. Confidence-guided Progressive Mixup for Unsupervsied Domain Adaptive Speech Enhancement, submitted to ICASSP 2024**
