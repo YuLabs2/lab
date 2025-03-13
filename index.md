@@ -7,49 +7,43 @@ Our research topics mainly involve:
 
 ## Resources of Published Papers
 
-**1. Multidimensional Spatial-temporal Graph Convolutional Network for Multichannel Speech Enhancement,need to be updated**
+### Multichannel Signal Processing & Microphone Array Signal Processing
 
-   Authors: Xingchun Liu, Jingjing Yu*, Yaxin Fu
-   
-   Data: need to be updated
-
-**2. Dynamic Scene-Aware Spatiotemporal Graph Convolution Network for Speech Enhancement in Open Environment,need to be updated**
-
-   Authors:need to be updated
-   
-   Wav files: need to be updated
-   
-**3. Graph-guided Spatial-temporal Diffusion Model for Multichannel Speech Enhancement, submitted to DSP 2025**
+**1. Graph-guided Spatial-temporal Diffusion Model for Multichannel Speech Enhancement, submitted to DSP 2025**
 
    Authors: Jingjing Yu*, Lirui Wu, Chi Yang, Ranran Liu, Athanassios Manikas
    
    Wav files: [Click here](https://yulabs2.github.io/G-DiffuMSE/ "wav")
 
-**4. Confidence-guided Progressive Mixup for Unsupervsied Domain Adaptive Speech Enhancement, submitted to ICASSP 2024**
+**2. Confidence-guided Progressive Mixup for Unsupervsied Domain Adaptive Speech Enhancement, submitted to ICASSP 2024**
 
    Authors: Chi Yang, Jingjing Yu*, Lirui Wu, Ranran Liu
    
    Wav files: need to be updated
 
-**5. Diffusion-based Speech Enhancement with Feature-Aware Scene Graphs, submitted to ICASSP 2024**
+**3. Diffusion-based Speech Enhancement with Feature-Aware Scene Graphs, submitted to ICASSP 2024**
 
    Authors: Lirui Wu, Jingjing Yu*, Chi Yang, Ranran Liu
    
    Wav files: need to be updated
+**4. Dynamic Scene-Aware Spatiotemporal Graph Convolution Network for Speech Enhancement in Open Environment, need to be updated**
 
-**6. Self-Supervised Speech Enhancement Based On Speaker Verification, submitted to ICASSP 2023**
+   Authors:need to be updated
+   
+   Wav files: need to be updated
+**5. Self-Supervised Speech Enhancement Based On Speaker Verification, submitted to ICASSP 2023**
 
    Authors: Luyao Zhang, Jingjing Yu*, Chi Yang, Lirui Wu
 
    Wav files: [Click here](https://wlirui.github.io/SSL-NTA-SV/ "wav")
    
-**7. Self-Supervised Speech Enhancement Based On Speaker Verification, submitted to ICASSP 2023**
+**6. Self-Supervised Speech Enhancement Based On Speaker Verification, submitted to ICASSP 2023**
 
    Authors: Chi Yang, Jingjing Yu*, Luyao Zhang, Lirui Wu
 
    Wav files: [Click here](https://wlirui.github.io/SSL-SV/ "wav")
    
-**8. Spatial-Tempora Graph Convolution Network for Multichannel Speech Enhancement, ICASSP 2022**
+**7. Spatial-Tempora Graph Convolution Network for Multichannel Speech Enhancement, ICASSP 2022**
 
    Authors: Minghui Hao, Jingjing Yu*, Luyao Zhang
 
@@ -57,13 +51,24 @@ Our research topics mainly involve:
    
    Wav files: [Click here](http://ahuei.github.io/stgcsen "wav")
 
+### IoT Sensor Network
+
+**1. Multidimensional Spatial-temporal Graph Convolutional Network for Multichannel Speech Enhancement, submitted to Neural Computing and Applications 2023**
+
+   Authors: Xingchun Liu, Jingjing Yu*, Yaxin Fu
+   
+   Data: need to be updated
 
 ## Group
 
+### Current
+
 Master's Students：Chi Yang，Lirui Wu，Yaxin Fu，Ranran Liu
+
+### Alumni
+
+Master's Students：Minghui Hao, Qi He, Zhiming Sun, Xiaojing Pan, Luyao Zhang
 
 ## Contact Info
 
 If any question, feel free to contact <jjyu@bjtu.edu.cn>
-
-
