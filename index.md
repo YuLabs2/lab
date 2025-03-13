@@ -10,6 +10,13 @@ Our research topics mainly involve:
 ### Multichannel Signal Processing & Microphone Array Signal Processing
 
 **1. Graph-guided Spatial-temporal Diffusion Model for Multichannel Speech Enhancement, submitted to DSP 2025**
+<div>
+  <img src="图片1.png" alt="Image 1" style="width: 100px; float: left; margin-right: 10px;">
+  <div>
+    Authors: Xingchun Liu, Jingjing Yu*, Yaxin Fu<br>
+    Data: need to be updated
+  </div>
+</div>
 
    Authors: Jingjing Yu*, Lirui Wu, Chi Yang, Ranran Liu, Athanassios Manikas
    
