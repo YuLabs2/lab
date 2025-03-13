@@ -65,11 +65,11 @@ Our research topics mainly involve:
 
 ### Current
 
-Master's Students：Chi Yang，Lirui Wu，Yaxin Fu，Ranran Liu
+Students：Chi Yang，Lirui Wu，Yaxin Fu，Ranran Liu
 
 ### Alumni
 
-Master's Students：Minghui Hao, Qi He, Zhiming Sun, Xiaojing Pan, Luyao Zhang
+Students：Minghui Hao, Qi He, Zhiming Sun, Xiaojing Pan, Luyao Zhang
 
 ## Contact Info
 
