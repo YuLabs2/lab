@@ -11,19 +11,21 @@ Our research topics mainly involve:
 
 **1. Graph-guided Spatial-temporal Diffusion Model for Multichannel Speech Enhancement, submitted to DSP 2025**
 
-<div style="display: flex; align-items: center;">
-  <img src="图片1.png" alt="Image 1" style="width: 100px; margin-right: 10px;">
+
+<div style="display: flex; align-items: center; justify-content: space-between;">
   <div>
     Authors: Xingchun Liu, Jingjing Yu*, Yaxin Fu<br>
     Data: need to be updated
   </div>
+  <img src="path/to/image1.png" alt="Image 1" style="width: 100px; margin-left: 10px;">
 </div>
-   Authors: Jingjing Yu*, Lirui Wu, Chi Yang, Ranran Liu, Athanassios Manikas
-   
-   Wav files: [Click here](https://yulabs2.github.io/G-DiffuMSE/ "wav")
+  
 
 **2. Confidence-guided Progressive Mixup for Unsupervsied Domain Adaptive Speech Enhancement, submitted to ICASSP 2024**
 
+   Authors: Jingjing Yu*, Lirui Wu, Chi Yang, Ranran Liu, Athanassios Manikas
+   
+   Wav files: [Click here](https://yulabs2.github.io/G-DiffuMSE/ "wav")
    Authors: Chi Yang, Jingjing Yu*, Lirui Wu, Ranran Liu
    
    Wav files: need to be updated
