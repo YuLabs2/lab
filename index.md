@@ -66,25 +66,41 @@ Our research topics mainly involve:
 ### Current
 
 Ranran Liu
+
 Lirui Wu
+
 Yaxin Fu
+
 Chi Yang
 
 ### Alumni
 
 Xiaojing Pan
+
 Luyao Zhang
+
 Zhiming Sun
+
 Guanglei Chen
+
 Qi He
+
 [Minghui Hao](https://github.com/Ahuei)
+
 Xingchun Liu
+
 Hongxu Wang
+
 Qi Xi
+
 Zhipeng Feng
+
 Runlei Li
+
 Wenqi Zhang
+
 Yue Lu
+
 Jiao Xu
 
 ## Contact Info
