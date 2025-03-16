@@ -65,11 +65,27 @@ Our research topics mainly involve:
 
 ### Current
 
-Students：Chi Yang，Lirui Wu，Yaxin Fu，Ranran Liu
+Ranran Liu
+Lirui Wu
+Yaxin Fu
+Chi Yang
 
 ### Alumni
 
-Students：Minghui Hao, Qi He, Zhiming Sun, Xiaojing Pan, Luyao Zhang
+Xiaojing Pan
+Luyao Zhang
+Zhiming Sun
+Guanglei Chen
+Qi He
+[Minghui Hao](https://github.com/Ahuei)
+Xingchun Liu
+Hongxu Wang
+Qi Xi
+Zhipeng Feng
+Runlei Li
+Wenqi Zhang
+Yue Lu
+Jiao Xu
 
 ## Contact Info
 
