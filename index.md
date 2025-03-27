@@ -49,7 +49,7 @@ Our research topics mainly involve:
    
    Data: [Click here](https://yulabs2.github.io/ "data")
  
-**Spatial-Tempora Graph Convolution Network for Multichannel Speech Enhancement, ICASSP 2022**
+**Spatial-Temporal Graph Convolution Network for Multichannel Speech Enhancement, ICASSP 2022**
 
    Authors: Minghui Hao, Jingjing Yu*, Luyao Zhang
 
