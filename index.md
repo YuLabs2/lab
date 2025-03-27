@@ -13,13 +13,13 @@ Our research topics mainly involve:
    
    Wav files: [Click here](https://yulabs2.github.io/G-DiffuMSE/ "wav")
 
-**Confidence-guided Progressive Mixup for Unsupervsied Domain Adaptive Speech Enhancement, submitted to ICASSP 2024**
+**Confidence-guided Progressive Mixup for Unsupervsied Domain Adaptive Speech Enhancement, submitted to ICASSP 2025**
 
    Authors: Chi Yang, Jingjing Yu*, Lirui Wu, Ranran Liu
    
    Wav files: need to be updated
 
-**Diffusion-based Speech Enhancement with Feature-Aware Scene Graphs, submitted to ICASSP 2024**
+**Diffusion-based Speech Enhancement with Feature-Aware Scene Graphs, submitted to ICASSP 2025**
 
    Authors: Lirui Wu, Jingjing Yu*, Chi Yang, Ranran Liu
    
@@ -31,19 +31,19 @@ Our research topics mainly involve:
    
    Wav files: need to be updated
    
-**Multidimensional Spatial-temporal Graph Convolutional Network for Multichannel Speech Enhancement, submitted to J-STSP 2023**
+**Multidimensional Spatial-temporal Graph Convolutional Network for Multichannel Speech Enhancement, submitted to J-STSP 2024**
 
    Authors: Jingjing Yu*, Luyao Zhang, Chi Yang, Lirui Wu, Minghui Hao
 
    Wav files: [Click here](https://yulabs2.github.io/YuLabs2array.github.io/ "wav")
 
-**Self-Supervised Speech Enhancement Based On Speaker Verification, submitted to ICASSP 2023**
+**Self-Supervised Speech Enhancement Based On Speaker Verification, submitted to ICASSP 2024**
 
    Authors: Luyao Zhang, Jingjing Yu*, Chi Yang, Lirui Wu
 
    Wav files: [Click here](https://wlirui.github.io/SSL-NTA-SV/ "wav")
    
-**Self-Supervised Generative Network for Personalized Speech Enhancement, submitted to ICASSP 2023**
+**Self-Supervised Generative Network for Personalized Speech Enhancement, submitted to ICASSP 2024**
 
    Authors: Chi Yang, Jingjing Yu*, Luyao Zhang, Lirui Wu
 
