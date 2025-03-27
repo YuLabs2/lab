@@ -33,7 +33,7 @@ Our research topics mainly involve:
    
 **Multidimensional Spatial-temporal Graph Convolutional Network for Multichannel Speech Enhancement, submitted to J-STSP 2023**
 
-   Authors: Jingjing Yu*, Luyao Zhang, Chi Yang, Lirui Wu and Minghui Hao
+   Authors: Jingjing Yu*, Luyao Zhang, Chi Yang, Lirui Wu, Minghui Hao
 
    Wav files: [Click here](https://yulabs2.github.io/YuLabs2array.github.io/ "wav")
 
