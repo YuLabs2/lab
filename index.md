@@ -31,6 +31,12 @@ Our research topics mainly involve:
    
    Wav files: need to be updated
    
+**Multidimensional Spatial-temporal Graph Convolutional Network for Multichannel Speech Enhancement, submitted to J-STSP 2023**
+
+   Authors: Jingjing Yu*, Luyao Zhang, Chi Yang, Lirui Wu and Minghui Hao
+
+   Wav files: [Click here](https://yulabs2.github.io/YuLabs2array.github.io/ "wav")
+
 **Self-Supervised Speech Enhancement Based On Speaker Verification, submitted to ICASSP 2023**
 
    Authors: Luyao Zhang, Jingjing Yu*, Chi Yang, Lirui Wu
